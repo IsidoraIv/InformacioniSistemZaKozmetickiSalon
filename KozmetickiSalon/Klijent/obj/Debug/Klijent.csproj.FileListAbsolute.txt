@@ -1,0 +1,221 @@
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PocetnaForma.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.Login.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosDobavljaca.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiKnjige.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaKnjiga.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosKnjige.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\bin\Debug\Klijent.exe
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\bin\Debug\Klijent.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\bin\Debug\Domen.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\bin\Debug\Domen.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiKnjige.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.Login.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PocetnaForma.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaKnjiga.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosDobavljaca.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosKnjige.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.exe
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosRacuna.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaRacuna.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiRacuna.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\bin\Debug\Klijent.exe
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\bin\Debug\Klijent.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\bin\Debug\Domen.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\bin\Debug\Domen.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.Login.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PocetnaForma.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.exe
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiUsluge.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaUsluga.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosKorisnika.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosUsluge.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiTermina.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaTermina.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosTermina.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaKorisnika.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiKorisnika.resources
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\bin\Debug\Klijent.exe
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\bin\Debug\Domen.dll
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\bin\Debug\Domen.pdb
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiKorisnika.resources
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiTermina.resources
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiUsluge.resources
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.Login.resources
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PocetnaForma.resources
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaKorisnika.resources
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaUsluga.resources
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaTermina.resources
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosKorisnika.resources
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosUsluge.resources
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosTermina.resources
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.exe
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.pdb
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\bin\Debug\Klijent.exe
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\bin\Debug\Klijent.pdb
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\bin\Debug\Domen.dll
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\bin\Debug\Domen.pdb
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiKorisnika.resources
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiTermina.resources
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiUsluge.resources
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.Login.resources
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PocetnaForma.resources
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaKorisnika.resources
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaUsluga.resources
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaTermina.resources
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosKorisnika.resources
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosUsluge.resources
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosTermina.resources
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.exe
+C:\Users\ARSA\Downloads\SalonKucnihLjubimaca2\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\bin\Debug\Klijent.exe
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\bin\Debug\Klijent.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\bin\Debug\Domen.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\bin\Debug\Domen.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiKorisnika.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiTermina.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiUsluge.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.Login.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PocetnaForma.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaKorisnika.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaUsluga.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaTermina.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosKorisnika.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosUsluge.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosTermina.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.exe
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Klijent\obj\Debug\Klijent.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\bin\Debug\Klijent.exe
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\bin\Debug\Klijent.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\bin\Debug\Domen.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\bin\Debug\Domen.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiKorisnika.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiTermina.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiUsluge.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.Login.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PocetnaForma.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaKorisnika.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaUsluga.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaTermina.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosKorisnika.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosUsluge.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosTermina.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.exe
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\bin\Debug\Klijent.exe
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\bin\Debug\Domen.dll
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\bin\Debug\Domen.pdb
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiKorisnika.resources
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiTermina.resources
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiUsluge.resources
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.Login.resources
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PocetnaForma.resources
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaKorisnika.resources
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaUsluga.resources
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaTermina.resources
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosKorisnika.resources
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosUsluge.resources
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosTermina.resources
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.exe
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Klijent\obj\Debug\Klijent.pdb

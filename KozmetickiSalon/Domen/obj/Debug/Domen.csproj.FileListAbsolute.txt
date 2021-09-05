@@ -1,0 +1,61 @@
+C:\Users\Arsa\Desktop\Domen\Domen\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\Domen\Domen\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\Domen\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\Domen\Domen\obj\Debug\Domen.dll
+C:\Users\Arsa\Desktop\Domen\Domen\obj\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\obj\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\obj\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\obj\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\obj\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\obj\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\obj\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Domen\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Domen\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Domen\obj\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Domen\obj\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Domen\bin\Debug\Domen.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Domen\bin\Debug\Domen.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Domen\obj\Debug\Domen.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\JakSlabObjekat\SaKreiraj\Knjizara\Knjizara\Domen\obj\Debug\Domen.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Domen\bin\Debug\Domen.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Domen\bin\Debug\Domen.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Domen\obj\Debug\Domen.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Domen\obj\Debug\Domen.pdb
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Domen\bin\Debug\Domen.dll
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Domen\bin\Debug\Domen.pdb
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Domen\obj\Debug\Domen.dll
+C:\Users\Mara\Desktop\SalonKucnihLjubimaca\SalonKucnihLjibimaca\Domen\obj\Debug\Domen.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Domen\bin\Debug\Domen.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Domen\bin\Debug\Domen.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Domen\obj\Debug\Domen.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\SalonKucnihLjubimaca - Sofija\SalonKucnihLjibimaca\Domen\obj\Debug\Domen.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Domen\bin\Debug\Domen.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Domen\bin\Debug\Domen.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Domen\obj\Debug\Domen.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni2021\KozmetickiSalon\KozmetickiSalon\Domen\obj\Debug\Domen.pdb
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Domen\bin\Debug\Domen.dll
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Domen\bin\Debug\Domen.pdb
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Domen\obj\Debug\Domen.dll
+C:\Users\Aleksandar\Desktop\fax\softveri\KozmetickiSalon\KozmetickiSalon\KozmetickiSalon\Domen\obj\Debug\Domen.pdb
